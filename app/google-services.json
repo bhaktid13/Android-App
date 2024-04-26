@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "110379853279",
+    "project_id": "application-bade8",
+    "storage_bucket": "application-bade8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110379853279:android:277b22c5fa1700a7d6106a",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA212bnC8IOHxADtZtppPomP5vembk21U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
